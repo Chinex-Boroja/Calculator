@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 **Prerequisites**
 
-At least Java SDK 8 (JDK 11 will require the Open JavaFX 11 SDK) 
+At least Java SDK 8 (JDK 11 will require the Open JavaFX 11 SDK)  
 An Integrated Development Environment (Preferably Intellij IDEA - which was used to develop this software).
 
 **Testing**
