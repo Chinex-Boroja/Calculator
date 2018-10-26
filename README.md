@@ -16,7 +16,7 @@ An Integrated Development Environment (Preferably Intellij IDEA - which was used
 
 This project includes a runnable jar file that can be used to quickly run the current state of the application. The location of this jar file is in out/artifacts/Calculator/Calculator.jar  
 This jar can be run through the command prompt opened in that location by typing "java -jar Calculator.jar" without the quotes. In addition, there is an Calculator.exe file in the
-out/artificacts/Calculator/bundles/Calculator folder that can be used on Windows operating systems.
+out/artifacts/Calculator/bundles/Calculator folder that can be used on Windows operating systems.
 
 If you would like to modify the source files, the project structure is as follows...
 
